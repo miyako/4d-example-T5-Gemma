@@ -1,0 +1,190 @@
+4D END USER LICENSE AGREEMENT – [V.2024.11]
+Publication date [28 Nov. 2024] - Effective date [28 Dec. 2024]
+
+WARNING!
+4D markets software that it owns, as well as software packages designed and developed by other authors. The software offered by 4D consists of standard products intended to meet the needs of as many customers as possible. The Client, seeking to acquire new IT tools, wishes to be able to use software offered by 4D for the purpose of his/her/its professional activity.
+
+In the context of its duty to inform and advise, 4D has provided the Client with a commercial proposal and/or documentation presenting the 4D Products, which the Client acknowledges having read. It is the Client’s responsibility, in particular on the basis of this information, to ensure that the 4D Products are suitable for his/her/its specific needs and constraints. To this end, the Client may request any additional information from 4D and/or attend an additional demonstration of the 4D Products prior to accepting the Agreement, failing which the Client acknowledges having been sufficiently informed. No specifications or statement of needs drawn up by the Client may under any circumstances be taken into account by 4D in the context of the EULA unless 4D expressly validates it before signing this document and it is included in the appendix to this EULA in writing.
+
+1. Definitions
+Main definitions
+
+“Client” is the legal entity entering into this agreement.
+
+“User” is a natural person or legal entity who accesses and uses Client’s Application through an authorization granted by Client
+
+“Application” means the program developed with or by the 4D Products.
+
+“4D Products” means 4D's computer program(s) in machine-readable executable code form and copies made of it, including related Documentation, any replacement or change and/or any Update provided under the Agreement.
+
+“Environment” means the computer hardware, operating system(s) ("platform(s)") required for use in conjunction with the 4D Products, and indicated in the Documentation, it being agreed that each license is only granted for one (1) Environment.
+“Confidential Information” means any non-public information that one Party (the “Disclosing Party”) discloses to the other Party (the “Receiving Party”) before or during the term of this Agreement, including without limitation all information relating to the Disclosing Party's business and technologies. Confidential Information includes (i) the 4D Products, (ii) any information regarding the content, purpose, design, or function of the 4D Products or (iii) any know-how, data or other information, including, that which relates to research, product plans, products, services,Clients, markets, developments, inventions, processes, algorithms, Source Code, marketing or finances. Confidential Information excludes any information (a) that is generally known and available in the public domain at the time of disclosure without fault of Client, or (b) that was known to Client prior to its discussions with 4D, as shown by Client’s files and records immediately prior to the time of disclosure, or (c) that is hereafter rightfully furnished to Client by a third party without restrictions on disclosure and without breach of confidentiality restriction. The same provisions apply to information disclosed by Client to 4D.
+
+“Documentation” shall mean all materials that describe the development, installation, use, functionality, operation, support, and maintenance associated with the 4D Products, including without limitation manuals, and technical documentation, made available here: https://developer.4d.com.
+
+“Effective date” shall mean the date of acceptance of the Order Form.
+
+“Exhibit” shall mean any exhibit, attachment and/or schedule to this Agreement.
+
+“Features” means the functionalities unilaterally developed and provided by 4D as part of the 4D Products.
+
+“Fees” means the fees set out in the Order Form for access and use of the 4D Products.
+
+“Laws” shall mean all applicable foreign, federal, state and local laws, statutes, rules, and regulations, and all judicial, governmental, or administrative orders, judgments, decrees and rulings or other enforceable requirements of courts or other governmental bodies of competent jurisdiction.
+
+“Order Form” means (a) any mutually agreed order form or similar transaction document (online or offline) established at the Client’s or User’s request for a license, including the chosen functionalities and payment plan, or (b) other order placed by Client with 4D for a License (online or offline) and any subsequent renewals.
+
+“Maintenance” means the service pertaining to update and upgrade of the 4D Products as described in Exhibit A.
+
+“Term” shall mean the term of this Agreement, set out in the Order Form.
+
+“Updates” shall mean any corrections, enhancements, bug fixes, or other modifications for the 4D Products as they are made generally available by 4D to its Clients.
+
+2. Purchase and Order Form
+2.1. Client may purchase a license to a 4D Product and/or Maintenance Services by entering into an Order with 4D directly. Client may order additional 4D Products and/or Maintenance Services by executing a follow-on Order.
+
+2.2. A purchase order issued by Client shall be in writing and identify the 4D Products being ordered, the shipping and invoicing locations, and shall be subject to acceptance by 4D.
+
+3. License
+3.1. License Grant. Subject to the Client’s compliance with this Agreement, 4D grants the Client a non-exclusive, non-transferable, worldwide right to (a) install, execute, copy, display or otherwise use the 4D Products solely for Client’s internal business purposes (including by distributing and licensing the 4D Application to Users as part of the Client’s product offerings or activities) and in accordance with the Documentation and this Agreement and the Order Form, and (b) use and reproduce the Documentation for the 4D Products as necessary or useful for the foregoing permitted purposes.
+
+3.2. Trial License. In the event of a Trial License, Client is granted a royalty free, non-exclusive, non-transferable, worldwide right to use the 4D Products in a development environment; and to use and reproduce the Documentation as necessary or useful for the foregoing permitted purposes.
+
+3.3. License Scope: one (1) License is granted for one (1) Environment. This implies that:
+
+Client must select such Computer/Environment at the time of the installation of the 4D Products and the installation and the use of the 4D Products on more than one (1) Environment imply the grant of separate licenses;
+Client may transfer from time to time the 4D Products from one Computer to another, provided the 4D Products are installed and used on no more than one (1) Computer at the same time. 4D reserves the right to limit, at its discretion, the number of authorized transfers during the term of the agreement;
+When Client purchases an Update of the 4D Products, Client may only use the Update and must stop using the previous version of the 4D Products.
+Scope of licence for specific 4D Products (such as number of authorized users) may be detailed in the Documentation.
+
+4. Prohibited Uses
+4.1. Client will not, nor allow any third party to, reverse engineer, decompile or attempt to discover any source code or underlying ideas or algorithms of any 4D Product. Except as mutually agreed to in writing as an exception under this Agreement, Client will not, nor allow any third party to modify, lease, lend, use for timesharing or service bureau purposes or otherwise use or allow others to use 4D Products for the benefit of any third party. Client agrees to promptly report to 4D any violations of these provisions by Client’s employees, consultants or agents, or by Users, of which Client is aware. Client shall not use the 4D Products or create a 4D Application in violation of any Laws
+
+5. Support and Maintenance
+5.1. The evaluation license does not include any technical support or maintenance services.
+
+5.2. If LICENSEE has subscribed to the yearly Maintenance services at the date of purchase of the corresponding license of use, such Maintenance services are subject to the Maintenance Exhibit.
+
+6. Term and Termination
+6.1. Term . The Agreement shall commence on the Effective Date, and shall continue in force for the Term, unless otherwise terminated as provided herein. At the end of any initial period indicated in the Order Form, the Agreement will be automatically renewed for successive periods indicated in the Order Form. After the initial term, either Party may terminate this Agreement, for any reason at any time, giving the other party a prior written notice of the duration set out in the Order Form prior to the termination taking effect.
+
+6.2. Trial License Term. The Term of a Trial License is thirty (30) days. The Trial License may be terminated at any time by Client. At the effective date of termination or expiration of the agreement for whatever reason except if Client decides to enter into a long-term commercial agreement with 4D, access to the 4D Products will be removed.
+
+6.3. Termination for Breach with notice. Either Party may terminate this Agreement by written notice to the other party for breach of any material provision of this Agreement, provided that such breach, if reasonably susceptible to cure, is not cured within thirty (30) calendar days following receipt of written notice of such breach stating the nonbreaching party’s intent to terminate.
+
+6.4. Immediate termination by 4D. 4D may terminate the Agreement immediately without notice if (i) Client breaches section 2 of the Agreement and/or (ii) in case of non-payment by Client of the Fees.
+
+6.5. Effect of termination. Upon expiration or any termination of this Agreement, (i) Client shall cease any and all use and/or distribution of the 4D Products, and (ii) each Party shall return to the other any and all Confidential Information in tangible form received from the Disclosing Party hereunder. In case of early termination of the Agreement, Client agrees that the fees paid for the ongoing Term are not refundable.
+
+6.6. Survival. The following provisions shall survive expiration or termination of this Agreement: Sections 7, 9, 10, 15, 16, 17.
+
+7. Intellectual Property Rights
+7.1. Retention of Rights. This Agreement confers no ownership rights to Client and is not a sale of any rights in the 4D Products, the Documentation, or the media on which either is recorded or printed. Client does not acquire any rights, express or implied, in the 4D Products or the Documentation, other than those rights as a licensee specified in this Agreement. All 4D Products and Documentation furnished by 4D and all copies thereof made by Client and all compilations, derivative products, programmatic extensions, patches, revisions, and updates made by either party, and any patent rights, copyrights, trade secrets, trademarks, trade names, service marks, designs or design marks or proprietary inventions, designs and information included within any of the items described above are and shall remain the property of 4D or 4D's licensors, as applicable. Client agrees not to claim or assert title to or ownership of the 4D Products or the Documentation.
+
+7.2. Copyright notice. Client will not remove or alter any copyright or proprietary notice from copies of the 4D Products or the Documentation and copies made by or for Client shall bear all copyright, trade secret, trademark and any other intellectual property right notices appearing on the original copies. During a Trial License, Client shall not remove the 4D copyright banner from the Application.
+
+8. Privacy
+8.1. In the context of their relationship, each Party processes the other Party’s personal data as data controller and shall comply with the Laws when doing so.
+
+9. Indemnification
+9.1. 4D agrees to defend and or settle claims, suits, actions or proceedings brought by a third party against Client and its directors, employees, and agents to the extent that the 4D Products infringe such third party’s intellectual property rights or 4D has violated any applicable Laws, rules or regulations (“Claim(s)”), and 4D shall indemnify Client against any liabilities awarded or settlement amounts entered into to the extent based upon such a Claim, provided that (i) Client shall have promptly provided 4D written notice thereof and reasonable cooperation, information, and assistance in connection therewith, and (ii) 4D shall have sole control and authority with respect to the defense, settlement, or compromise thereof.
+
+9.2. Should any 4D Product become or, in 4D’s opinion, be likely to become the subject of an injunction preventing its use as contemplated herein, 4D will either (1) procure for the Client the right to continue using such 4D Product, (2) replace or modify such 4D o that it becomes non-infringing, or, if (1) and (2) are not reasonably available to 4D, then (3) refund the license fees paid in regards to 4D Product and terminate the related license. Client may participate with counsel of its own choosing at its own expense provided that any portion of any settlement or compromise which constitutes an admission from Client shall be subject to the prior written approval of 4D.
+
+9.3. 4D obligations detailed above shall not apply to an infringement claim resulting directly from uses, modifications, or combination of the 4D Product by the Client or third parties acting on its behalf, that were not expressly authorized by the Agreement or the Documentation (including the use of a 4D Product with another hardware, another operating system, and/or another 4D Product which constitute the Environment).
+
+9.4. THE FOREGOING TERMS STATE 4D SOLE AND EXCLUSIVE LIABILITY AND THE CLIENT’S SOLE AND EXCLUSIVE REMEDY FOR ANY CLAIMS OF INTELLECTUAL PROPERTY INFRINGEMENT OR MISAPPROPRIATION.
+
+10. Confidential Information
+10.1. Each Party agrees not to disclose to third parties any Confidential Information of the other Party, other than professional advisers and consultants on a need-to-know basis nor use it for any other purpose than performance of the Agreement. Each Receiving Party agrees to ensure that all employees or advisers who will have access to, use of, or knowledge of any Confidential Information are under statutory confidentiality obligations or have executed (in advance of and as a condition to such access, use, or knowledge) a confidentiality agreement with the Receiving Party that is at least as protective of such information as the provisions of this Section. Client agrees to use at least the same degree of care that it uses to protect its own confidential information of a similar nature, but no less than reasonable care.
+
+11. Fees
+11.1. In consideration of the rights and licenses set forth herein, Client shall promptly pay to 4D the fees set forth in the Order Form. No payment is required for Trial Licenses.
+
+11.2. Payments shall be made within the period and in the manner established in the Order Form.
+
+11.3. Taxes. All payments required by this Agreement are exclusive of all federal, state, local, and foreign taxes, levies, and assessments. Client agrees to bear and be responsible for the payment of all such taxes, levies, and assessments imposed upon Client or 4D in connection with this Agreement, excluding any income tax imposed on 4D and shall promptly, after payment, provide the corresponding tax certificate (when available) to 4D.
+
+12. Maintenance
+12.1. 4D shall provide Maintenance for the 4D Products in accordance with the terms set forth in Exhibit A. Upon the Client’s request for any non-corrective maintenance support or development services not included in Exhibit A, the Parties shall enter into a specific statement of work.
+
+13. Publicity
+13.1. 4D may use the name and logo of the Client in public communications and on its website and promotional materials for the purpose of advertising the use of the 4D Products.
+
+14. Audit
+14.1. CLIENT permits 4D to perform either itself or by any representative any audit or control in order to verify that CLIENT complies with all provisions of this Agreement, it being agreed that CLIENT shall provide any information requested by 4D regarding the Agreement execution, without any delay and by writing. If the audit reveals a non-compliance with the terms and conditions of the Agreement and/or a discrepancy with the information given by CLIENT, CLIENT shall pay all of 4D’s reasonable costs relating to the audit without prejudice to other rights and 4D’s recourse. This provision shall remain in force two (2) years after the termination of the Agreement without exception.
+
+15. Warranties
+15.1. Authority. Each Party represents and warrants to the other that the execution, delivery, and performance of this Agreement does not require the authorization or approval of any third party and does not violate any contract, policy, agreement, or other obligation of that Party.
+
+15.2. Compliance. Client represents and warrants to 4D that all access and use by or on behalf of Client of the 4D products and the Application shall comply with all applicable Laws.
+
+15.3. Product Warranty. 4D warrants that the 4D Products will materially conform to the accompanying Documentation for a period of ninety (90) days from the date of initial delivery. If during the warranty period the 4D Products do not materially conform to the Documentation, then Client’s exclusive remedy under this provision will be to have 4D, at 4D’s sole expense and option, either repair, replace, or refund the licence fees paid by Client for the nonconforming 4D Products and terminate the Agreement.
+
+15.4. Warranty conditions. This warranty shall not apply if: (a) the 4D Products are not used in accordance with 4D’s Documentation and instructions; (b) the 4D Products’ nonconformance has been caused by any of Client’s malfunctioning equipment or Client-provided 4D Products; or (c) Client has made modifications to the 4D Products not expressly authorized in writing by 4D.
+
+15.5. Disclaimer of Other Warranties. Except as expressly set forth herein, 4D Products are provided “as is.” 4D makes no warranty regarding the 4D Products (or the Documentation), or the use or operation thereof, and specifically disclaims the implied warranties of merchantability, fitness for a particular purpose and non-infringement. 4D does not warrant that the 4D Products are free from bugs and/or errors. In addition, 4D does not warrant that the functions included in the 4D Products will meet CLIENT’s requirements and needs, nor that the Application developed by Client will function correctly or meet Client’s or Users’ objectives and needs. The entire risk as to choose and use of the 4D Products, as well as the results obtained with the 4D Products including the development of the Application, remains with CLIENT. Client agrees that the 4D Products are obtained through download at its own discretion and risk and that Client is responsible for any damage to its computer system or loss of data that results from the downloading of the 4D Products. It is Client's responsibility to take the necessary steps for the protection of its data.
+
+15.6. Absence of warranty for third parties. The warranty as stated in this provision is personal to Client and no third party that uses the results obtained by Client with the 4D Products may benefit from such warranty. Consequently, 4D shall not be responsible to any third party, for the use of any 4D Application. Client shall indemnify 4D from any claim by a third party related to such 4D Application.
+
+16. Liability
+16.1. Neither 4D nor anyone else who has been involved in the design, the production, or the distribution of the 4D Products will be liable for any incidental, consequential, indirect or special damages caused to CLIENT, any user or third party, even in case of negligence, including but not limited, to the interruption of the good order work of the 4D Products, the loss of profits, loss of data, loss of brand image, increase of overheads or any other financial loss arising from the use of the 4D Products or inability to use it even if 4D has been notified of the possibility of such damages.
+
+16.2. Client acknowledges and agrees that 4D may only be liable for direct damages.
+
+16.3. To the maximum extent permitted by applicable law, and except for indemnification obligations, breach of confidentiality and/or intellectual property rights provisions, and breach of Client’s payment obligations, the Parties’ liability shall not exceed the license fees paid and/or payable by customer to 4D under the Order Form giving rise to the claim for the twelve (12) months preceding the event giving rise to the claim.
+
+16.4. It is expressly agreed that any claim for damages against 4D SAS arising in connection with the Agreement will be time-barred twelve (12) months after the event that triggered the claim.
+
+17. Miscellaneous
+17.1. Governing Law. This Agreement shall be governed by the laws of France, without reference to conflict of laws principles.
+
+17.2. Jurisdiction. All disputes arising out of or related to this Agreement will be subject to the exclusive jurisdiction and venue of the Courts of Versailles, and the Parties consent to the personal and exclusive jurisdiction of these courts.
+
+17.3. Assignment. Neither Party may assign this Agreement without the other party’s prior written consent, provided, however, that either party may assign this Agreement without the other Party’s prior written consent to any entity that acquires all or substantially all of the business or assets of 4D, whether by merger, reorganization, acquisition, sale, or otherwise. Any assignment made in conflict with this provision shall be void and this Agreement shall benefit and bind the permitted successors and assigns of the parties.
+
+17.4. Force Majeure. Neither party will incur any liability to the other party on account of any loss or damage resulting from any delay or failure to perform all or any part of this Agreement if such delay or failure is caused, in whole or in part, by events, occurrences, or causes beyond the reasonable control of and without negligence by the parties. Such events, occurrences, or causes will include, without limitation, acts of God, strikes, lockouts, riots, acts of war, failures of the Internet, failure of telecommunications systems, earthquakes, fire, and explosions.
+
+17.5. Waiver. Any waiver of the provisions of this Agreement or of a party’s rights or remedies under this Agreement must be in writing to be effective. Failure, neglect, or delay by a party to enforce the provisions of this Agreement or its rights or remedies at any time, will not be construed and will not be deemed to be a waiver of such party’s rights under this Agreement and will not in any way affect the validity of the whole or any part of this Agreement or prejudice such party’s right to take subsequent action. Except as expressly stated in this Agreement, no exercise or enforcement by either party of any right or remedy under this Agreement will preclude the enforcement by such party of any other right or remedy under this Agreement or that such party is entitled by law to enforce.
+
+17.6. Entire Agreement. This Agreement (including the Exhibits and any addenda hereto signed by both parties) contains the entire agreement of the parties with respect to the subject matter of this Agreement and supersedes all previous communications, representations, understandings and agreements, either oral or written, between the parties with respect to said subject matter. This Agreement may not be amended, except in writing signed by both parties
+
+CLIENT ACKNOWLEDGES TO HAVE READ, UNDERSTOOD, AND AGREED TO BE BOUND BY THE TERMS AND CONDITIONS OF THE AGREEMENT PRINTED ABOVE.
+
+Should CLIENT have any questions concerning this Agreement or wish to request any information from 4D, please contact 4D: (+33) (0)1 30 53 92 00 (e-mail: contact@4d.com) or the local 4D subsidiary serving your country.
+
+* U.S. GOVERNMENT RESTRICTED RIGHTS:
+All 4D products and documentation are commercial in nature. The 4D Products and Documentation are "Commercial Items", as that term is defined in 48 C.F.R. §2.101, consisting of "Commercial Computer 4D Products " and "Commercial Computer 4D Products Documentation", as such terms are defined in 48 C.F.R. §252.227-7014(a)(5) and 48 C.F.R. §252.227-7014(a)(1), and used in 48 C.F.R. §12.212 and 48 C.F.R. 227.7202, as applicable. Consistent with 48 C.F.R. §12.212, 48 C.F.R. §252.227-7015, 48 C.F.R. §227.7202 through 227.7202-4, 48 C.F.R. §52.227-14, and other relevant sections of the Code of Federal Regulations, as applicable, 4D's 4D Products and 4D Products documentation are licensed to United States Government end users with only those rights as granted to all other end users, according to the terms and conditions contained in this license agreement.
+
+Manufacturer is 4D SAS located at 66 route de Sartrouville - 78230 Le Pecq, France.
+
+(c) 4D SAS. 2024 - All rights reserved for all media and all countries.
+
+All 4D product names are registered trademarks of 4D SAS. All other trade names and trademarks are trademarks or registered trademarks of their respective holders.
+Yearly 4D Product Maintenance – Exhibit
+
+This Maintenance is available by (i) subscribing to, or (ii) purchasing a 4D license.
+
+1. Upgrades. In consideration of the payment of the corresponding yearly fee, Client can upgrade its 4D LTS License as long as a new LTS is released and made available. The Upgrades are at its disposal, by any means and on any media of 4D’s choice, including, if available, the related Documentation. Additionally, the Upgrades are new releases available to Client for both Feature Release (FR) and Long-Term Support (LTS) release cycles. For example, 30.2 LTS or 20 R3.Licenses can only be upgraded during Yearly Maintenance contract.
+
+2. Features Release & Long-Term Support (LTS). Provided Client has elected Maintenance services and paid the applicable fees, when 4D makes Feature Releases available, 4D will grant Client the right to use such new release, with the understanding that Clients which have not subscribed to the Maintenance are not allowed to use such new releases.
+
+3. Hotfixes. Maintenance gives access to Hotfixes for both Product cycles (LTS and Feature Release).
+
+4. Update of the Environment by Client. Client shall update the components of the Environment if an Update and/or a Feature Release requires to do so.
+
+5. Absence of Technical Support: Client acknowledges that Technical Support is not included in the Maintenance services but is available via the 4D Partner Program. Such program would require a separate agreement.
+
+6. Term. The initial yearly Maintenance period shall come into effect at the date of acceptance of the Order Form, for a term of one (1) year.
+
+7. Renewal. Unless Maintenance is terminated by a party upon written notice - by registered letter with acknowledgement of receipt - to the other party at least thirty (30) days prior to the end of the current yearly period, Maintenance shall be renewed for successive periods of one (1) year each and the associated fees shall be calculated on the basis of the then current applicable 4D price list at the date the yearly Maintenance is renewed.
+
+8. Expansion License. It is expressly understood that, if Client has subscribed to Maintenance for any 4D Product, the purchase of any expansion and/or plugin license will automatically include Maintenance for such expansion license. Maintenance of such expansion/plugin may only be terminated (i) in case of termination of the Maintenance of the 4D Product in accordance with the procedures outlined above, or (ii) if Client decides to stop using such expansion license and notify 4D of such termination as set out in section ”Renewal”. Maintenance fees for the expansion license are calculated based on the remaining duration of the Master Product, specifically either 4D Server or 4D Team Developer Professional.
+
+9. Single Product. If the 4D Products contains an Upgrade of the 4D Products and/or if 4D makes Feature Releases available, the Upgrade and/or the Feature Release constitutes a single product with the 4D Products. Consequently, Client must cease using the previous release of the 4D Products and/or permitting such use no more than two (2) months from the installation or registration of such Upgrade and/or Feature Release.
+
+10. Automatic License Update or Upgrade. When updating or upgrading 4D Products, to avoid any human intervention, the 4D Products will automatically connect to the 4D license management system, to check if a new license is available (covered by Maintenance contract). This silent and automatic connection will be done without any warning message on the end user interface.
+
+11. Termination of the EULA. as described above for any reason shall automatically and immediately entail termination of the Maintenance services thereto.
+
+12. Early termination effects.In case of early termination of the Maintenance services for any reason, Client agrees that the fees paid for the Maintenance services are not refundable and that such termination shall not relieve Client from paying any amount due at the date of the termination pursuant to the EULA.
