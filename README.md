@@ -17,6 +17,7 @@ $ChatCompletionsParameters.prompt:="translate English to French: The cat sat on 
 	
 */
 
+var $template : Object
 $template:={apply: Formula("<start_of_turn>user\n"+$1+"<end_of_turn>\n<start_of_turn>model\n")}
 $ChatCompletionsParameters.prompt:=$template.apply($ChatCompletionsParameters.prompt)
 
