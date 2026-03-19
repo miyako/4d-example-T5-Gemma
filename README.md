@@ -1,5 +1,4 @@
-# 4d-example-T5-Gemma
-T5 Gemma in CT2
+## [google/t5gemma-l-l-ul2-it](https://huggingface.co/google/t5gemma-l-l-ul2-it)
 
 ```4d
 var $OpenAI : cs.AIKit.OpenAI
