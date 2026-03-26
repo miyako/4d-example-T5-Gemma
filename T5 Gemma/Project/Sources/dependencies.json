@@ -7,6 +7,18 @@
 		"ctranslate2": {
 			"github": "miyako/ctranslate2",
 			"version": "latest"
+		},
+		"workers": {
+			"github": "miyako/workers",
+			"version": "latest"
+		},
+		"tcp": {
+			"github": "miyako/tcp",
+			"version": "latest"
+		},
+		"event": {
+			"github": "miyako/event",
+			"version": "latest"
 		}
 	}
 }
